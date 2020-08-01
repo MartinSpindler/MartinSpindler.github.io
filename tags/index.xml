@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Statistics, Econometrics and Machine Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#AI</title>
+      <link>/tags/#ai/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/#ai/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
